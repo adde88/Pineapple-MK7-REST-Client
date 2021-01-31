@@ -14,7 +14,7 @@
 >
 > __Doc__::         https://docs.hak5.org/hc/en-us/articles/360049854174-WiFi-Pineapple-Mark-VII-REST-API
 >
-> __Requires__::    ruby >= 2.7.0, rest-client 2.1.0 gem and Pineapple MK7 Firmware 1.0.1
+> __Requires__::    ruby >= 2.7.0, rest-client 2.1.0 gem and Pineapple MK7 Firmware 1.0.1-stable or 1.0.2-stable
 >  
 >
 > __Installation__::
